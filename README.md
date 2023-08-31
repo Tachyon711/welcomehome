@@ -44,9 +44,9 @@ I built this project to substitute for other existing alternatives. As to why:
 To make changes, open "index.html" or "index.css" using Notepad.
 Please feel free to message me.
 
-# Credits[^1][^2][^3]
+# Credits
 
-Konpeki事実
+Konpeki事実[^1][^2][^3]
 - Code
 - [My email](keiaa.07.05.00@gmail.com)
 
