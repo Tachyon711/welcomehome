@@ -63,9 +63,6 @@ Hiroe Mori
 
 Hiromasa Ono
 
-[^1]:
-@Konpeki事実
-All rights reversed.
-
-This file is not copyrighted. That is, with the exception of "leaf.svg" from DBCLS, which is under CC BY 4.0. 
-Please provide attributions upon distribution. Other than that, please do what you will.
+[^1]: @Konpeki事実. All rights reversed.
+[^1]: This file is not copyrighted. That is, with the exception of "leaf.svg" from DBCLS, which is under CC BY 4.0. 
+[^1]: Please provide attributions upon distribution. Other than that, please do what you will.
