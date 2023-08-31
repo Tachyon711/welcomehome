@@ -48,16 +48,16 @@ Please feel free to message me.
 
 Konpeki事実[^1]
 - Code
-- keiaa.07.05.00@gmail.com
+- [My email](keiaa.07.05.00@gmail.com)
 
 Karen Ying
 - Guide
-- blog.karenying.com
+- [Her website]https://blog.karenying.com
 
 DataBase Center for Life Science (DBCLS)
 - Tab icon (svg)
-- Licensed under https://creativecommons.org/licenses/by/4.0/legalcode
-- https://commons.wikimedia.org/wiki/File:202204_Leaf.svg
+- Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+- [Source](https://commons.wikimedia.org/wiki/File:202204_Leaf.svg)
 
 Hiroe Mori
 
