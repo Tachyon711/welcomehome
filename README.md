@@ -1,4 +1,6 @@
 # Welcome Home
+> [!IMPORTANT]
+> This extension is unpacked and does not follow the usual installation process. Read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) first.
 
 [![Download](https://gist.githubusercontent.com/csqrl/0dbc95191f239b631c3874f4ccf114e2/raw/128214e54056d78f3a8763557d1dafd4ea0777fc/download-compact.svg)](https://github.com/Tachyon711/welcomehome/releases/download/release/welcome_home_v.1.0.0.zip)
 
