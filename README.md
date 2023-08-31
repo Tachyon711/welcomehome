@@ -26,10 +26,11 @@ I built this project to substitute for other existing alternatives. As to why:
 ## Others
 - Human-readable code.
 - Only 25 KB. That's all.
-- Unpacked. Easily modifiable. Or maybe I'm lazy to pack it.
 - Around 15-25 MB memory usage.
+- Does not make any connections anywhere.
 - With minimalism in mind, design, and code.
 - Only deals with the new tab page. Just that.
+- Does not collect any data. It just really can't.
 - Uses only the local storage to load resources. No CDN, no Google Fonts.
 
 ## Screenshots
