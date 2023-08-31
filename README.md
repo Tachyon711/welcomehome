@@ -52,7 +52,7 @@ Konpeki事実[^1]
 
 Karen Ying
 - Guide
-- [Her website]https://blog.karenying.com
+- [Her website](https://blog.karenying.com)
 
 DataBase Center for Life Science (DBCLS)
 - Tab icon (svg)
