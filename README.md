@@ -35,6 +35,10 @@ I built this project to substitute for other existing alternatives. As to why:
 ![Light theme](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/2.PNG)
 
 ## Instruction
+
+> [!NOTE]
+> If you want to proceed with a packed copy, download [here](https://github.com/Tachyon711/welcomehome/raw/main/Welcome%20Home.crx). Simply drag and drop in the extension settings.
+
 1. Extract the files in an empty folder.
 2. Find your browser's extension settings.
      - If you're in Chrome/Chromium, go to chrome://extensions
