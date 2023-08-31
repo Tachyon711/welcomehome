@@ -37,7 +37,7 @@ I built this project to substitute for other existing alternatives. As to why:
 ## Instruction
 
 > [!NOTE]
-> If you want to proceed with a packed copy, download [here](https://github.com/Tachyon711/welcomehome/raw/main/Welcome%20Home.crx). Simply drag and drop in the extension settings.
+> If you want to proceed with a packed copy, download [here](https://github.com/Tachyon711/welcomehome/raw/main/Welcome%20Home.crx). Simply drag and drop in the extension settings. No need to do the following. However, some browsers might block this.
 
 1. Extract the files in an empty folder.
 2. Find your browser's extension settings.
