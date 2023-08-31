@@ -1,7 +1,7 @@
-# Welcome Home!
-Say hello to Welcome Home! v.1.1.5
+# Welcome Home
+Say hello to Welcome Home v.1.1.5
 
-This project is built to provide a custom, light, and minimal new tab page for browsers, particularly Chromium-based ones.
+This project is built to provide a custom, light, and minimal new tab page extension for browsers, particularly Chromium-based ones.
 It would also work with other browsers that support Chrome extensions, like Firefox and Waterfox.
 
 I built this project to substitute for other existing alternatives. As to why:
@@ -24,6 +24,13 @@ I built this project to substitute for other existing alternatives. As to why:
 - With minimalism in mind, design, and code.
 - Only deals with the new tab page. Just that.
 - Uses only the local storage to load resources. No CDN, no Google Fonts.
+
+## Screenshots
+![Dark theme](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/1.PNG]
+Default theme of Welcome Home.
+
+![Light theme](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/2.PNG)
+Light theme of Welcome Home.
 
 ## Instruction
 1. Extract the files in an empty folder.
