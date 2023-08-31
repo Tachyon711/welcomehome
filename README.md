@@ -26,7 +26,7 @@ I built this project to substitute for other existing alternatives. As to why:
 - Uses only the local storage to load resources. No CDN, no Google Fonts.
 
 ## Screenshots
-![Dark theme](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/1.PNG]
+![Dark theme](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/1.PNG)
 Default theme of Welcome Home.
 
 ![Light theme](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/2.PNG)
