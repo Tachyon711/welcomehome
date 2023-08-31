@@ -1,10 +1,10 @@
 # Welcome Home
 
+> [!WARNING]
+> This extension is unpacked and does not follow the usual installation process. Read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) first.
+
 > [!NOTE]
 > If you want to proceed with a packed copy, download [here](https://github.com/Tachyon711/welcomehome/raw/main/Welcome%20Home.crx). Simply drag and drop in the extension settings. No need to do the instructions below. However, some browsers might block this, and you won't be able to easily edit the code.
-
-> [!IMPORTANT]
-> This extension is unpacked and does not follow the usual installation process. Read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) first.
 
 **Say hello to Welcome Home!**
 
