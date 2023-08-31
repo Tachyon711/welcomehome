@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    user-select: none;
+}
+
+/* The following are the configuration for the body. Feel free to edit.*/
+body {
+    font: 300 70px/1 'Arial';
+    color: #FFFFFF;
+    background: #1a1a1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* The following are the configuration for the date. Feel free to edit.*/
+#date {
+    font-size: 35px;
+    margin-bottom: 30px;
+    display: flex;
+    font-family: 'Arial';
+    color: #FFFFFF;
+    font-style: italic;
+}
+
+/* The following are the configuration for the user greeting. Feel free to edit. */
+#greeting {
+    font-size: 40px;
+    margin: 45px 0px 60px 0px;
+    font-family: 'Arial' !important;
+    color: #FFFFFF;
+}
+
+/* The following are the configuration for the bookmark list. Feel free to edit. */
+#shortcuts {
+    font-size: 15px;
+    font-family: 'Arial' !important;
+    color: #FFFFFF;
+    padding: 3px;
+}
+
+#dot {
+    color: #de5833;
+    margin: 0px 5px;
+}
+
+#slash {
+    color: #de5833;
+}
+
+#chrome {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+a {
+    color: inherit;
+}
+
+.clock {
+    width: 350px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.clock span {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+}
+
+.clock span:nth-child(2) {
+    border-right: 2px solid#de5833;
+    margin-right: 10px;
+    width: 60px;
+    text-align: left;
+}
+
+.clock span:nth-child(4) {
+    border-right: 2px solid#de5833;
+    margin-right: 10px;
+    width: 60px;
+    text-align: left;
+}
+
+.clock span:nth-child(6) {
+    text-align: left;
+}
+
+.clock span:before,
+.clock span:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    backface-visibility: hidden;
+    transition: transform 0.75s;
+}
+
+.clock span:before {
+    content: attr(data-old);
+    z-index: 1;
+    transform: translate3d(0, 0, 0);
+}
+
+.clock .flip:before {
+    transform: translate3d(0, 102.5%, 0);
+}
+
+.clock span:after {
+    content: attr(data-now);
+    z-index: 2;
+    transform: translate3d(0, -102.5%, 0);
+}
+
+.clock .flip:after {
+    transform: translate3d(0, 0, 0);
+}
+
+.clock-container {
+    padding: 20px 15px;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+    box-shadow: 5px 5px 15px #000;
+    background-color: transparent;
+}
