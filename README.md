@@ -1,6 +1,8 @@
 # Welcome Home
 Say hello to Welcome Home!
 
+[![Download](https://gist.githubusercontent.com/csqrl/0dbc95191f239b631c3874f4ccf114e2/raw/128214e54056d78f3a8763557d1dafd4ea0777fc/download-compact.svg)](https://github.com/Tachyon711/welcomehome/releases/download/release/welcome_home_v.1.0.0.zip)
+
 This project is built to provide a custom, light, and minimal new tab page extension for browsers, particularly Chromium-based ones.
 It would also work with other browsers that support Chrome extensions, like Firefox and Waterfox.
 
