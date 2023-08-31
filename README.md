@@ -1,5 +1,5 @@
 # Welcome Home
-Say hello to Welcome Home v.1.1.5
+Say hello to Welcome Home!
 
 This project is built to provide a custom, light, and minimal new tab page extension for browsers, particularly Chromium-based ones.
 It would also work with other browsers that support Chrome extensions, like Firefox and Waterfox.
