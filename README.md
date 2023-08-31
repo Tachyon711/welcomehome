@@ -28,8 +28,8 @@ I built this project to substitute for other existing alternatives. As to why:
 ## Instruction
 1. Extract the files in an empty folder.
 2. Find your browser's extension settings.
-    i. If you're in Chrome/Chromium, go to chrome://extensions
-    ii. If you're in Edge, go to edge://extensions
+     - If you're in Chrome/Chromium, go to chrome://extensions
+     - If you're in Edge, go to edge://extensions
 3. Activate the developer mode in the upper right corner.
 4. Click load unpacked in the upper left.
 5. Select the folder where you extracted the files.
