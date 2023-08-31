@@ -44,9 +44,9 @@ I built this project to substitute for other existing alternatives. As to why:
 To make changes, open "index.html" or "index.css" using Notepad.
 Please feel free to message me.
 
-# Credits
+# Credits[^1][^2][^3]
 
-Konpeki事実[^1]
+Konpeki事実
 - Code
 - [My email](keiaa.07.05.00@gmail.com)
 
@@ -64,5 +64,5 @@ Hiroe Mori
 Hiromasa Ono
 
 [^1]: @Konpeki事実. All rights reversed.
-[^1]: This file is not copyrighted. That is, with the exception of "leaf.svg" from DBCLS, which is under CC BY 4.0. 
-[^1]: Please provide attributions upon distribution. Other than that, please do what you will.
+[^2]: This file is not copyrighted. That is, with the exception of "leaf.svg" from DBCLS, which is under CC BY 4.0. 
+[^3]: Please provide attributions upon distribution. Other than that, please do what you will.
