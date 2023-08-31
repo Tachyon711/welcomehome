@@ -1,8 +1,10 @@
 # Welcome Home
+
+> [!NOTE]
+> If you want to proceed with a packed copy, download [here](https://github.com/Tachyon711/welcomehome/raw/main/Welcome%20Home.crx). Simply drag and drop in the extension settings. No need to do the instructions below. However, some browsers might block this, and you won't be able to easily edit the code.
+
 > [!IMPORTANT]
 > This extension is unpacked and does not follow the usual installation process. Read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) first.
-
-[![Download](https://gist.githubusercontent.com/csqrl/0dbc95191f239b631c3874f4ccf114e2/raw/128214e54056d78f3a8763557d1dafd4ea0777fc/download-compact.svg)](https://github.com/Tachyon711/welcomehome/releases/download/release/welcome_home_v.1.0.0.zip)
 
 **Say hello to Welcome Home!**
 
@@ -35,9 +37,6 @@ I built this project to substitute for other existing alternatives. As to why:
 ![Light theme](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/2.PNG)
 
 ## Instruction
-
-> [!NOTE]
-> If you want to proceed with a packed copy, download [here](https://github.com/Tachyon711/welcomehome/raw/main/Welcome%20Home.crx). Simply drag and drop in the extension settings. No need to do the following. However, some browsers might block this.
 
 1. Extract the files in an empty folder.
 2. Find your browser's extension settings.
