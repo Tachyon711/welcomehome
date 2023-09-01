@@ -1,5 +1,8 @@
 # Welcome Home
 
+> [!IMPORTANT]
+> This extension is particularly designed for Chromium. It is compatible in other browsers, but would need minor changes. Release for Firefox will come soon.
+
 > [!WARNING]
 > This extension is unpacked and does not follow the usual installation process. Read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) first.
 
@@ -9,7 +12,6 @@
 **Say hello to Welcome Home!**
 
 This project is built to provide a custom, light, and minimal new tab page extension for browsers, particularly Chromium-based ones.
-It would also work with other browsers that support Chrome extensions, like Firefox and Waterfox.
 
 I built this project to substitute for other existing alternatives. As to why:
 - I don't want my new tab page to start connections to load resources. 
