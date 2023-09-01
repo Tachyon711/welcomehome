@@ -1,7 +1,7 @@
 # Welcome Home
 
 > [!IMPORTANT]
-> This extension is particularly designed for Chromium. It is compatible in other browsers, but would need minor changes. Release for Firefox will come soon.
+> This extension is particularly designed for Chromium and Edge. It is compatible in other browsers, but may need minor changes. Release for Firefox will come soon.
 
 > [!WARNING]
 > This extension is unpacked and does not follow the usual installation process. Read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) first.
