@@ -1,13 +1,20 @@
 # Welcome Home
 
-> [!IMPORTANT]
-> This extension is particularly designed for Chromium and Edge. It is compatible in other browsers, but may need minor changes. Release for Firefox will come soon.
+## Roadmap
+- Submission to AMO (addons.mozilla.org).
+- Adding customization for the bookmarks list.
+- Adding dark/light mode button.
+- Publish to AMO, Opera Web Store, and Microsoft Edge Add-ons Store.
 
-> [!WARNING]
-> This extension is unpacked and does not follow the usual installation process. Read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) first.
+## Download
 
 > [!NOTE]
-> If you want to proceed with a packed copy, download [here](https://github.com/Tachyon711/welcomehome/raw/main/Welcome%20Home.crx). Simply drag and drop in the extension settings. No need to do the instructions below. However, some browsers might block this, and you won't be able to easily edit the code.
+> In order to use the extension/add-on properly, please refer to the [instructions](https://github.com/Tachyon711/welcomehome#instruction) below.
+
+- [Chromium packed extension](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/whcv.1.0.0.crx)
+- [Chromium unpacked extension](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/welcome_home_chromium_v.1.0.0.zip)
+- [Firefox packed extension](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/whfv.1.0.0.xpi)
+- [Firefox unpacked extension](https://raw.githubusercontent.com/Tachyon711/welcomehome/main/welcome_home_firefox_v.1.0.0.zip)
 
 **Say hello to Welcome Home!**
 
@@ -18,6 +25,9 @@ I built this project to substitute for other existing alternatives. As to why:
 - I don't want my new tab page to be heavily decorated.
 - Microsoft Edge and Duckduckgo start page is slow, for me.
 - A new tab page should be functional, aesthetically pleasing, and light.
+
+## Journey of learning
+This project had learning in mind. It had helped me understand some aspects of making extensions/add-ons, how Web Stores work, how Github repo is actually managed properly (I still can't do that), and how semantic versioning is done. I hope that this could somehow help you as well, but it is provided as is. It is what it is.
 
 ## Features
 - Date
@@ -41,14 +51,38 @@ I built this project to substitute for other existing alternatives. As to why:
 
 ## Instruction
 
+### Unpacked
+
+> [!NOTE]
+> Installing the unpacked copies would let you be able to interact more to the code of the extension, as well as customize it yourself.
+
+#### Chromium
 1. Extract the files in an empty folder.
 2. Find your browser's extension settings.
-     - If you're in Chrome/Chromium, go to chrome://extensions
-     - If you're in Edge, go to edge://extensions
 3. Activate the developer mode in the upper right corner.
 4. Click load unpacked in the upper left.
 5. Select the folder where you extracted the files.
-6. The browser loads the extension, and you're done.
+
+#### Firefox
+1. Go to about:debugging.
+2. Enable temporary add-on installation.
+3. Open the location of the .zip file.
+
+### Packed
+
+#### Chromium
+1. Find your browser's extension settings.
+2. Activate the developer mode.
+3. Drag and drop the .crx file.
+
+#### Firefox
+
+> [!NOTE]
+> We are currently planning to submit the .xpi file in AMO (addons.mozilla.org). Upon approval of our submission, this process would be no longer necessary.
+
+1. Go to about:debugging.
+2. Enable temporary add-on installation.
+3. Open the location of .xpi file.
 
 ### How to activate light mode:
 1. Locate "lightmode.css"
@@ -63,7 +97,7 @@ Please feel free to message me.
 
 Konpeki事実[^1][^2][^3]
 - Code
-- [My email](keiaa.07.05.00@gmail.com)
+- [My email](confinedrose@duck.com)
 
 Karen Ying
 - Guide
