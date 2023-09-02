@@ -1,9 +1,9 @@
 # Welcome Home
 
 ## Roadmap
+- Adding customization for the bookmarks list. (still studying)
+- Adding dark/light mode button. (still studying)
 - Submission to AMO (addons.mozilla.org).
-- Adding customization for the bookmarks list.
-- Adding dark/light mode button.
 - Publish to AMO, Opera Web Store, and Microsoft Edge Add-ons Store.
 
 ## Download
@@ -27,7 +27,7 @@ I built this project to substitute for other existing alternatives. As to why:
 - A new tab page should be functional, aesthetically pleasing, and light.
 
 ## Journey of learning
-This project had learning in mind. It had helped me understand some aspects of making extensions/add-ons, how Web Stores work, how Github repo is actually managed properly (I still can't do that), and how semantic versioning is done. I hope that this could somehow help you as well, but it is provided as is. It is what it is.
+This project had learning in mind. It had helped me understand some aspects of making extensions/add-ons, how Web Stores work, how Github repo is actually managed properly (I still can't do that), and how semantic versioning is done. I hope that this could somehow help you as well, but it is provided as is.
 
 ## Features
 - Date
