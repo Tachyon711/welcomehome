@@ -78,7 +78,7 @@ This project had learning in mind. It had helped me understand some aspects of m
 #### Firefox
 
 > [!NOTE]
-> We are currently planning to submit the .xpi file in AMO (addons.mozilla.org). Upon approval of our submission, this process would be no longer necessary.
+> I am currently planning to submit the .xpi file in AMO (addons.mozilla.org). Upon approval of our submission, this process would be no longer necessary.
 
 1. Go to about:debugging.
 2. Enable temporary add-on installation.
