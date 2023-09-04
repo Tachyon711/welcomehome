@@ -1,9 +1,9 @@
 # Welcome Home
 
 > [!IMPORTANT]
-> The development for Welcome Home will be left as is for now. I have to focus on my studies, as well as contributing as much as I could on other projects.
+> The development for Welcome Home will be left as is for now. I have to focus on my studies, as well as contributing as much as I could on other projects. I plan to port Nord NewTab to Firefox soon.
 
-Please use [Nord NewTab](https://github.com/raluvy95/nordnewtab) instead, another new tab replacement by [raluvy95](https://github.com/raluvy95). Please also check one of her projects, [Felida Browser](https://github.com/raluvy95/FelidaBrowser).
+Please use [Nord NewTab](https://github.com/raluvy95/nordnewtab) instead, another new tab replacement by [raluvy95](https://github.com/raluvy95). Check one of her projects as well, [Felida Browser](https://github.com/raluvy95/FelidaBrowser). 
 
 ## Nord NewTab Features
 
