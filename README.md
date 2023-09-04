@@ -1,5 +1,23 @@
 # Welcome Home
 
+> [!IMPORTANT]
+> The development for Welcome Home will be left as is for now. I have to focus on my studies, as well as contributing as much as I could on other projects.
+
+Please use [Nord NewTab](https://github.com/raluvy95/nordnewtab) instead, another new tab replacement by [raluvy95](https://github.com/raluvy95).
+
+## Nord NewTab Features
+
+- Clock
+- Weather
+- Quotes
+- Bookmarks
+- Minimal and lightweight.
+- Works best with Chromium.
+
+To use Nord NewTab, read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) below and download [here](https://github.com/raluvy95/nordnewtab/archive/refs/tags/2.0.0.zip).
+
+---
+
 ## Roadmap
 - Adding customization for the bookmarks list. (still studying)
 - Adding dark/light mode button. (still studying)
