@@ -11,8 +11,9 @@ Please use [Nord NewTab](https://github.com/raluvy95/nordnewtab) instead, anothe
 - Weather
 - Quotes
 - Bookmarks
-- Minimal and lightweight.
-- Works best with Chromium.
+- Minimal and lightweight
+- Looks perfectly with [this](https://chrome.google.com/webstore/detail/material-nord/cnfjnjfppmpabbbdeijhimfijipmmanj)
+- Works best with Chromium-based browsers
 
 To use Nord NewTab, read the [instructions](https://github.com/Tachyon711/welcomehome#instruction) below and download [here](https://github.com/raluvy95/nordnewtab/archive/refs/tags/2.0.0.zip).
 
